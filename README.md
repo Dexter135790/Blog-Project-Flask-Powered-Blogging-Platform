@@ -37,10 +37,12 @@ Welcome to my Flask-based blog application! 🚀 This project demonstrates my pr
 
 | Feature             | Screenshot                          |
 |---------------------|-------------------------------------|
-| Home Page           | ![Home Page](images/Screenshot 2025-01-12 at 6.19.54 PM.png) |
-| Create Post         | ![Create Post](images/create.png)   |
-| Post Details        | ![Post Details](images/post.png)    |
-| User Login          | ![User Login](images/login.png)     |
+| Home Page           | ![Home Page](images/home.png) |
+| About               | ![Create Post](images/about.png)   |
+| Comment              | ![Post Details](images/comment.png)    |
+| Contact             | ![User Login](images/contact.png)     |
+| Post             | ![User Login](images/post.png)     |
+| Register             | ![User Login](images/register.png)     |
 
 *(Add screenshots to an `images` folder in your repository)*
 
@@ -78,7 +80,7 @@ Follow these steps to set up the project locally:
 ### Steps:
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Dexter135790/Blog_Final_Version.git
    cd your-repo-name
    ```
 
@@ -118,17 +120,3 @@ Follow these steps to set up the project locally:
 
 Feel free to fork this repository and submit pull requests. All contributions are welcome!
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## 📬 Contact
-
-For any inquiries or feedback, please reach out:
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
-
----
-
-⭐ If you like this project, give it a star on GitHub! ⭐
